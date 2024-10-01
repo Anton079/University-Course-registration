@@ -1,0 +1,14 @@
+C:\mycode\oop\mostenire\University Course Registration System\University Course Registration System\obj\Debug\net6.0\University Course Registration System.GeneratedMSBuildEditorConfig.editorconfig
+C:\mycode\oop\mostenire\University Course Registration System\University Course Registration System\obj\Debug\net6.0\University Course Registration System.AssemblyInfoInputs.cache
+C:\mycode\oop\mostenire\University Course Registration System\University Course Registration System\obj\Debug\net6.0\University Course Registration System.AssemblyInfo.cs
+C:\mycode\oop\mostenire\University Course Registration System\University Course Registration System\obj\Debug\net6.0\University Course Registration System.csproj.CoreCompileInputs.cache
+C:\mycode\oop\mostenire\University Course Registration System\University Course Registration System\bin\Debug\net6.0\University Course Registration System.exe
+C:\mycode\oop\mostenire\University Course Registration System\University Course Registration System\bin\Debug\net6.0\University Course Registration System.deps.json
+C:\mycode\oop\mostenire\University Course Registration System\University Course Registration System\bin\Debug\net6.0\University Course Registration System.runtimeconfig.json
+C:\mycode\oop\mostenire\University Course Registration System\University Course Registration System\bin\Debug\net6.0\University Course Registration System.dll
+C:\mycode\oop\mostenire\University Course Registration System\University Course Registration System\bin\Debug\net6.0\University Course Registration System.pdb
+C:\mycode\oop\mostenire\University Course Registration System\University Course Registration System\obj\Debug\net6.0\University Course Registration System.dll
+C:\mycode\oop\mostenire\University Course Registration System\University Course Registration System\obj\Debug\net6.0\refint\University Course Registration System.dll
+C:\mycode\oop\mostenire\University Course Registration System\University Course Registration System\obj\Debug\net6.0\University Course Registration System.pdb
+C:\mycode\oop\mostenire\University Course Registration System\University Course Registration System\obj\Debug\net6.0\University Course Registration System.genruntimeconfig.cache
+C:\mycode\oop\mostenire\University Course Registration System\University Course Registration System\obj\Debug\net6.0\ref\University Course Registration System.dll
